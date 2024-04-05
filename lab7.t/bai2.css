@@ -1,0 +1,6 @@
+.list-group-item{
+    display: flex;
+}
+td>img{
+    width: 80px;
+}
